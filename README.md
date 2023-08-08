@@ -32,3 +32,18 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+
+- Master Next.js 13.4 with Server Side Rendering
+- Learn MongoDB handling of complex schemas, multiple data population
+- Create beautiful layouts with TailwindCSS
+- Use Clerk for authentication
+- Handle file uploads with UploadThing
+- Explore Shadcn components
+- Listen to real-time events with webhooks
+- Understand middleware, API actions, and authorization
+- Explore & integrate new Next.js layout route groups
+- Validate data with Zod
+- Manage forms with react hook form
+- Create reusable components
+- Build a solid application architecture
+- Deploy the application and more!
