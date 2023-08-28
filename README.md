@@ -47,3 +47,7 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 - Create reusable components
 - Build a solid application architecture
 - Deploy the application and more!
+
+[Video](https://www.youtube.com/watch?v=O5cmLDVTgAs&list=TLPQMDgwODIwMjMLjsG9UP6Szw&index=9)
+
+[Github](https://github.com/adrianhajdin/threads/tree/main)
